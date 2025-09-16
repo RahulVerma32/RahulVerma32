@@ -5,12 +5,12 @@
 
 ---
 
-<h3 align="center">Full Stack Developer | India</h3>
+<h3 align="center">Software Developer </h3>
 
-- 🔭 Working on **web projects**  
-- 🌱 Learning **ReactJS**  
-- 👯 Open to collaborate on **creative projects**  
-- 💬 Ask me about **JavaScript**  
+- 🔭 Working on **BUILDING CREATIVE PROJECTS**  
+- 🌱 Learning **APP DEVELOPMENT**  
+- 👯 Open to collaborate on **INNOVATIVE IDEAS**  
+- 💬 Ask me about **WEB DEVELOPMENT**  
 - 📫 Reach me at **vermarahul7344@gmail.com**  
 
 ---
@@ -28,9 +28,48 @@
 ---
 
 <h3 align="left">⚡ Tech Stack:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,express,python,cpp,c,git" />
+
+**Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs,sass" />
 </p>
+
+**Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+**Databases**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+</p>
+
+**DevOps & Cloud**  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+**Tools & Others**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,cpp,c" />
+</p>
+
+---
+
+<h3 align="left">📖 Currently Learning:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,docker,aws" />
+</p>
+
+---
+
+<h3 align="left">🎯 Future Goals:</h3>
+
+- 🚀 Contribute more to **Open Source** projects  
+- 🛠️ Build and launch **SaaS products**  
+- 🌍 Explore **AI/ML integrations** with web apps  
+- ☁️ Master **Cloud DevOps** for scalable deployments  
+- 🧑‍🤝‍🧑 Collaborate on **innovative team projects**  
 
 ---
 
@@ -38,7 +77,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahulVerma32&show_icons=true&theme=tokyonight" alt="RahulVerma32 stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulVerma32&theme=tokyonight" alt="RahulVerma32 streak" height="170"/>
 </p>
 
 <p align="center">
