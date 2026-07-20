@@ -11,13 +11,13 @@
 - 🌱 Learning **APP DEVELOPMENT**  
 - 👯 Open to collaborate on **INNOVATIVE IDEAS**  
 - 💬 Ask me about **WEB DEVELOPMENT**  
-- 📫 Reach me at **vermarahul7344@gmail.com**  
+- 📫 Reach me at **rahulverma.work1@gmail.com**  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rahul-verma-a79ba0259/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-verma-connect/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://instagram.com/rahul_verma.o7" target="_blank">
